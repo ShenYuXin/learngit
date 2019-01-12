@@ -1,2 +1,2 @@
-This open learngit
-today is happyday
+This is open learngit
+today is happyday day
